@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1663555868, 272279024]
+build_end_time: [1663555869, 105723857]
+inputs:
+  "/Users/zaharyasshin/Desktop/Developer/NewLesson/ToDoList/ToDoList/AppDelegate.swift": [1663231300, 486890792]
+  "/Users/zaharyasshin/Desktop/Developer/NewLesson/ToDoList/ToDoList/SceneDelegate.swift": [1663231300, 489979743]
+  "/Users/zaharyasshin/Desktop/Developer/NewLesson/ToDoList/ToDoList/SecondViewController.swift": [1663555805, 469944477]
+  "/Users/zaharyasshin/Desktop/Developer/NewLesson/ToDoList/ToDoList/ViewController.swift": [1663555868, 178143501]
