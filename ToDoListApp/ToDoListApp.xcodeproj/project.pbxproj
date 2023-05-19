@@ -13,6 +13,7 @@
 		E0C5A72E2A1721E9009FC2CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0C5A72D2A1721E9009FC2CB /* Preview Assets.xcassets */; };
 		E0C5A73A2A172C2D009FC2CB /* ExtencionColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C5A7392A172C2D009FC2CB /* ExtencionColor.swift */; };
 		E0C5A73C2A172C83009FC2CB /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C5A73B2A172C83009FC2CB /* ItemModel.swift */; };
+		E0C5A73E2A177773009FC2CB /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C5A73D2A177772009FC2CB /* ListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E0C5A72D2A1721E9009FC2CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E0C5A7392A172C2D009FC2CB /* ExtencionColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtencionColor.swift; sourceTree = "<group>"; };
 		E0C5A73B2A172C83009FC2CB /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		E0C5A73D2A177772009FC2CB /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		E0C5A7362A172B41009FC2CB /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				E0C5A73D2A177772009FC2CB /* ListViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0C5A73E2A177773009FC2CB /* ListViewModel.swift in Sources */,
 				E0C5A7292A1721E7009FC2CB /* ListView.swift in Sources */,
 				E0C5A73A2A172C2D009FC2CB /* ExtencionColor.swift in Sources */,
 				E0C5A73C2A172C83009FC2CB /* ItemModel.swift in Sources */,
