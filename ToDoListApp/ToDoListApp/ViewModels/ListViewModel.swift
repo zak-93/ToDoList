@@ -47,7 +47,7 @@ class ListViewModel: ObservableObject {
     
     func changeItem(item: ItemModel, title: String) {
         if let index = items.firstIndex(where: {$0.id == item.id}) {
-            items[index].title = title
+            items[index] = item.updateTitle(newTitle: title)
         }
     }
     
